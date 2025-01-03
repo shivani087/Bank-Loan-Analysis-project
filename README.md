@@ -66,3 +66,4 @@ You can find images of the dashboards in the `Output` directory of this reposito
 
 Contributions to enhance the analysis or add new features are welcome! If you have any suggestions, ideas, or bug fixes, feel free to open an issue or submit a pull request.
 # Data-Analyst-Projects
+# Data-Analytic-Projects
